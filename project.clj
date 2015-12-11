@@ -4,4 +4,5 @@
   :license {:name "Do What The Fuck You Want To Public License"
             :url "http://www.wtfpl.net/"}
   :dependencies [[org.clojure/clojure "1.7.0"]
-                 [org.apache.poi/poi "3.13"]])
+                 [org.apache.poi/poi "3.13"]
+                 [org.apache.poi/poi-ooxml "3.13"]])

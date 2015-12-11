@@ -1,6 +1,6 @@
 # scribble
 
-A Clojure library designed to ... well, that part is up to you.
+My scribble
 
 ## Usage
 
@@ -8,7 +8,8 @@ FIXME
 
 ## License
 
-Copyright © 2015 FIXME
 
-Distributed under the Eclipse Public License either version 1.0 or (at
+Copyright c 2015 Ryotaro NAKAMURA
+
+Distributed under the Do What The Fuck You Want To Public License either version 2.0 or (at
 your option) any later version.
